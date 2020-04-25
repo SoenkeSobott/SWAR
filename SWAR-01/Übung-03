@@ -52,7 +52,7 @@ s.o.
 * Systemanforderungen  
 Kontextdiagram
 
-* TODO: kontextdiagramm
+![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Kontextdiagram.png "Kontextdiagram")
 
 ### UI-Benutzerschnittstelle
 
