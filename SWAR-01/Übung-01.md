@@ -31,15 +31,9 @@
 
 # Wie nennt man Systemanforderungen noch? Wie unterscheiden sie sich von Stakeholder-Anforderungen?
 * Systemanforderungen werden auch Blackbox genannt 
-* Stakeholder haben Interesse am Unternehmen im Gesamten: 
-Ihre Anforderungen betreffen also nicht nur das System, 
-sondern auch darüber hinaus beispielsweise die Arbeitsweise oder 
-das Image des Unternehmens. Systemanforderungen sind eher technisch, 
-während Stakeholder-Anforderungen auch organisatorische Interessen verfolgen.
-   
-* Die Systemanforderungen befassen sich wie der Name bereits verrät 
-vordergründig mit dem System und sind daher eher von technischer Natur. 
-Stakeholder-Anforderungen beschäftigen sich mit den verschiedenen 
-Personen(-gruppen) welche mit dem System interagieren werden. 
-Z.B. Nutzungsanforderungen, Gesetzliche Anforderungen, Marktanforderungen, …
+* Stakeholder umfassen alle Interessengruppen des Produktes daher betreffen ihre Anforderungen 
+nicht nur das System, sondern auch andere Felder wie bspw. die Arbeitsweise oder das Image. 
+Die Systemanforderungen befassen sich wie der Name bereits verrät vordergründig mit dem System 
+und sind daher eher von technischer Natur. Während Stakeholder-Anforderungen auch organisatorische 
+Interessen verfolgen.
 

@@ -67,6 +67,9 @@ Kontextdiagram
 * Dynamisches Verhalten
 
   * Nachricht senden
+  
+![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/NachrichtSenden.png "NachrichtSenden")
+
 
 ![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Nachricht01.png "Nachricht01")
 
