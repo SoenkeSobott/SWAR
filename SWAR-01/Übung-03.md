@@ -64,6 +64,46 @@ Kontextdiagram
 
 * Dynamisches Verhalten
 
+  * Nachricht senden
+
+![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Nachricht01.png "Nachricht01")
+
+* 1 Der Nutzer wählt die Kundenliste aus
+
+![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Nachricht02.png "Nachricht02")
+
+* 2 Der Nutzer sucht nach dem Kundennamen in der Suchleiste
+* 3 Der Nutzer betätigt den Ändern Button
+
+![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Nachricht03.png "Nachricht03")
+
+* 4 Der Nutzer verfasst eine Nachricht an den Kunden
+* 5 Der Nutzer sendet die Nachricht ab
+
+![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Nachricht04.png "Nachricht04")
+
+* 6 Der Nutzer bekommt eine Bestätigung das seine Nachricht versendet ist und 
+klickt wider zur Home Seite
+
+
+* Registrieren
+
+![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Registrierung01.png "Registrierung01")
+
+* 1 Der Nutzer muss den Nutzungsbedingungen zustimmen
+* 2 Der Nutzer muss den nächsten Schritt einleiten
+
+![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Registrierung02.png "Registrierung02")
+
+* 3 Der Nutzer muss seine persönlichen Daten eingeben (Name, Mail, Passwort)
+* 4 Der Nutzer wählt eine Zahlungsmethode
+* 5 Der Nutzer meldet sich an
+
+![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Registrierung03.png "Registrierung03")
+
+* 6 Der Nutzer sieht seine angegebenen Daten und kann diese ändern oder 
+zur Home Seite navigieren
+
 
 
 
