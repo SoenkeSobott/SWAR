@@ -1,4 +1,4 @@
-# Übung 01
+# Aufgabe 01
 
 ## Wie beschreibt man eine technische Schnittstelle vollständig?
 * Performanz, wie zum Beispiel welchen Traffic, beziehungsweise Anzahl Transaktionen das System verarbeiten können muss 

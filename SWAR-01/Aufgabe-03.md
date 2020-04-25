@@ -1,8 +1,10 @@
-# Mockups entwerfen mit balsamiq 
+# Aufgabe 03
+
+## Mockups entwerfen mit balsamiq 
 
 * siehe UI-Benutzerschnittstelle dynamisch
 
-# Wie kann eine SRS gegliedert sein?
+## Wie kann eine SRS gegliedert sein?
 
 * Einleitung
   * Projektbeschreibung / Zweck
@@ -25,9 +27,9 @@
       * Update Upgrade
       * Gesetzliche Vorgaben
 
-# Erstellen Sie eine komplette SRS.
+## Erstellen Sie eine komplette SRS
 
-## Einleitung
+### Einleitung
 
 * Produktbeschreibung  
 Das System soll die Möglichkeit bieten sich für einen bezahlten Newsletter zu registrieren und diesen Online abrufen zu könne. 
@@ -38,7 +40,7 @@ Mitarbeiter können Kundendaten abrufen daran Änderungen vornehmen und Kunden N
 Das Ziel dieses Dokumentes ist es die oben genannten Funktionen der Software detailliert
 und widerspruchsfrei zu dokumentieren.
 
-## Beschreibung des zu entwickelnden Systems
+### Beschreibung des zu entwickelnden Systems
 
 * Nutzergruppen (Stakeholder)  
 Abonnenten (Kunden), Mitarbeiter und Interessierte
@@ -54,7 +56,7 @@ Kontextdiagram
 
 ![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Kontextdiagram.png "Kontextdiagram")
 
-### UI-Benutzerschnittstelle
+#### UI-Benutzerschnittstelle
 
 * Statisches Aussehen
   * Mockups  
@@ -69,6 +71,7 @@ Kontextdiagram
   * Nachricht senden
   
 ![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/NachrichtSenden.png "NachrichtSenden")
+
 
 
 ![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Nachricht01.png "Nachricht01")
@@ -112,7 +115,7 @@ zur Home Seite navigieren
 
 
 
-### Datenschnitstelle
+#### Datenschnitstelle
 
 * Mail-Server  
 
@@ -131,7 +134,7 @@ Datenbank
 | Strukturell     | HTTPS                                                   |
 
 
-### Technische Schnitstellen
+#### Technische Schnitstellen
 
 * Performanz
   * Anzahl der Nutzer die simultan auf das System zugreifen 
@@ -147,13 +150,13 @@ Datenbank
 * System-System-Schnitstellen
   * LDAP
   
-### Laufzeitumgebung
+#### Laufzeitumgebung
 
 * Das System muss auf gängigen Browsern und Geräten lauffähig sein
 * Das System ist Stabil und hat nur sehr geringe Ausfälle
 
 
-### Sonstige Anforderungen
+#### Sonstige Anforderungen
 * Lizenzmanagement
   * Framework Lizenzen
   * Open Source
