@@ -60,7 +60,9 @@ Kontextdiagram
   * Mockups  
  siehe Mockups 
 
-  * Style Guide
+  * Style Guide  
+  ![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/StyleGuide.png "StyleGuide")
+
 
 * Dynamisches Verhalten
 
@@ -113,7 +115,7 @@ zur Home Seite navigieren
 
 | Typ             |    Werkzeug                                       |
 |---------------- |------------------------------------               |
-| Organisatorisch | Mail wird automatisiert nach neuer News versand   |
+| Organisatorisch | Mail wird automatisiert nach neuer News versendet |
 | Syntaktisch     | JSON                                              |
 | Strukturell     | SMTP, POP3                                        |
 
