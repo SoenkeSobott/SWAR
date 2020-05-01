@@ -81,7 +81,7 @@ Kontextdiagram
 ![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Nachricht02.png "Nachricht02")
 
 * 2 Der Nutzer sucht nach dem Kundennamen in der Suchleiste
-* 3 Der Nutzer betätigt den Ändern Button
+* 3 Der Nutzer betätigt den Nachricht senden Button
 
 ![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/Nachricht03.png "Nachricht03")
 
@@ -122,7 +122,7 @@ zur Home Seite navigieren
 | Typ             |    Werkzeug                                       |
 |---------------- |------------------------------------               |
 | Organisatorisch | Mail wird automatisiert nach neuer News versendet |
-| Syntaktisch     | JSON                                              |
+| Syntaktisch     | Text, HTML                                              |
 | Strukturell     | SMTP, POP3                                        |
 
 Datenbank
