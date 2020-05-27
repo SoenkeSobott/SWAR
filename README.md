@@ -8,4 +8,6 @@
 
 ## Übungsblatt 2
 
-* ...
+* [Aufgabe 04](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-02/Aufgabe-04.md)
+* [Aufgabe 05](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-02/Aufgabe-05.md)
+
