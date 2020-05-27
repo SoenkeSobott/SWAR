@@ -40,7 +40,7 @@
     * Frameworks
 
 ## Welche Inhalte sollte ein Architekturdokument enthalten?
-![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/images/ArchitekturDokument.png "ArchitekturDokument")
+![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-02/images/ArchitekturDokument.png "ArchitekturDokument")
 
 ## Woraufhin sollte man dieses Dokument prüfen? Wie kann man das machen? Was zeichnet ein gutes Dokument aus? Was eine gute Architektur?
 * Abstraktion
