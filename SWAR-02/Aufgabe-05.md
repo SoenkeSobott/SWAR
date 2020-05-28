@@ -1,18 +1,16 @@
 # Übung 05
 
 ## Metainformationen 
-* Versionshistorie {kp}
-
-| Wer          |    Was          |  Wo       |Warum       |  Wer |Wann |Version |
-|--------------|-----------------|-----------|------------| -----|-----|--------| 
-| Tom          |Was              |Da         |Nötig       |  Wer |Wann |Version |
-| Til          |Was              |Hier       |Muss halt   |  Wer |Wann |Version |
-| Timo         |Was              |Sonstwo    |War wichtig |  Wer |Wann |Version |
-| Hans         |Was              |Nirgends   |Ist das so  |  Wer |Wann |Version |
-
 
 * Newsletter
 * Newsletter.dat
+* Versionshistorie
+
+| Wer    |    Was            |  Wo                     |Warum               |Wann     |Version |
+|--------|-------------------|-------------------------|--------------------|---------|--------| 
+| Tom    |Datenbank          |Backend (BitbucketLink)  |Bessere Performanz  |12.03.20 |0.0.1   |
+| Til    |Frontend Framework |Frontend (BitbucketLink) |Einfache Handhabung |16.04.20 |0.0.2   |
+| Timo   |...                |...                      |...                 |XY.xy.XY |0.0.X   |
   
 ## Einführung
 * Leserkreis
@@ -28,16 +26,16 @@
   * Welche DB benutzt wird
   * Was wollen sie denn?
 * Stakeholder
-  * siehe andere Dokument
+  * siehe [Aufgabe 03 (Stakeholder)](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-01/Aufgabe-03.md#beschreibung-des-zu-entwickelnden-systems)
 * Begründung für Architektur
-  * MongoDB Atlas weil passend für die News im Newsletter und kundenverwaltung, flexibler
-  * 
+  * MongoDB Atlas, weil passend für News und Kunden Struktur. Einfache Abbildung in JSON-Dokument, einfach skalierbar
+  * DB in Europa, weil im einklang mit DSGVO
 
 ## Einflussfaktoren
 * Technische Einflussfaktoren
-  * siehe oben
+  * siehe [Aufgabe 04 (Einflussfaktoren)](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-02/Aufgabe-04.md#was-ist-der-input-was-der-output-seiner-t%C3%A4tigkeit-in-bezug-auf-dokumente)
 * Organisatorische Einflussfaktoren
-  * siehe oben
+  * siehe [Aufgabe 04 (Einflussfaktoren)](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-02/Aufgabe-04.md#was-ist-der-input-was-der-output-seiner-t%C3%A4tigkeit-in-bezug-auf-dokumente)
 
 ## Bausteinsicht (Komponentendiagramm)
 ![alt text](https://github.com/SoenkeSobott/SWAR/blob/master/SWAR-02/images/Komponentendiagramm.png "Komponentendiagramm")
@@ -53,7 +51,6 @@
 * Fehlerbehandlung
 * Transaktionssteuerung
 * Logging
-* ..
 
 ## Projektaspekte
 * Ansprechpartner
