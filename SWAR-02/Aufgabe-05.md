@@ -53,7 +53,9 @@
 * Logging
 
 ## Projektaspekte
-* Ansprechpartner
+* Ansprechpartner 
+  * Der Arhcitekt
+  * Projektverantwortliche Personen
 * Werkzeuge
 
 ## Anhang

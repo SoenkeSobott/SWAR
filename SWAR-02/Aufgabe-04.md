@@ -58,6 +58,6 @@
 * Technische s.o.
 
 ## Wie können sich diese und die Systemanforderungen widersprechen? Nennen Sie Beispiele
-* Geringe downrate -> Nicht genug Geld um das zu gewährleisten
-* Viele Funktionalitäten -> Aber geringe Anzahl Entwickler
-* Neue Technologien einsetzen -> Aber geringe Budget
+* Geringe downrate -> Nicht genug Geld um das zu gewährleisten (Personal/Technisch)
+* Viele Funktionalitäten -> Aber geringe Anzahl an Entwicklern
+* Neue Technologien einsetzen -> Aber ein minimiertes Budget
